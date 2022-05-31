@@ -1,0 +1,22 @@
+[{
+        "nama": "Abdul Rahman",
+        "telepon": "0897242424",
+        "email": "dul.abdoel21@gmail.com",
+        "prodi": "Teknik Informatika",
+        "idDosen": 1
+    },
+    {
+        "nama": "Belinda",
+        "telepon": "0812365441",
+        "email": "belinda@gmail.com",
+        "prodi": "Teknik Informatika",
+        "idDosen": 2
+    },
+    {
+        "nama": "Sandhika",
+        "telepon": "08135258211",
+        "email": "sandhika@gmail.com",
+        "prodi": "Teknik Informatika",
+        "idDosen": 3
+    }
+]
